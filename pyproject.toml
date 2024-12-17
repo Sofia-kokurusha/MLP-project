@@ -9,6 +9,9 @@ packages = [{include="ecolyon", from= "src"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.2.3"
+jupyter = "^1.1.1"
+matplotlib = "^3.9.2"
+scikit-learn = "^1.5.2"
 
 
 [build-system]
